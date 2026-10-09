@@ -1,0 +1,326 @@
+[
+ {
+  "n": 1,
+  "title": "Politics, Authority & Social Movements (السياسة، السلطة والحركات الاجتماعية)",
+  "hdr": [
+   "Arabic Term / Phrase",
+   "Transliteration",
+   "English Meaning",
+   "B2 Usage Context / Collocation"
+  ],
+  "rows": [
+   {
+    "a": "الوَصاية الفِكرية",
+    "t": "al-waṣāyah al-fikriyyah",
+    "e": "Intellectual guardianship / Paternalism",
+    "u": "نظام وصاية فكرية (A system of intellectual guardianship)"
+   },
+   {
+    "a": "قَمْع (قَمَعَ / يَقْمَعُ)",
+    "t": "qam‘ (qama‘a / yaqma‘u)",
+    "e": "Suppression / Oppression (to suppress)",
+    "u": "آليات القمع (Mechanisms of oppression)"
+   },
+   {
+    "a": "مُقاوَمة مَدَنِيّة",
+    "t": "muqāwamah madaniyyah",
+    "e": "Civil resistance",
+    "u": "أفعال المقاومة المدنية (Acts of civil resistance)"
+   },
+   {
+    "a": "اسْتِبْداد",
+    "t": "istibdād",
+    "e": "Authoritarianism / Tyranny",
+    "u": "معارضة الاستبداد (Opposing authoritarianism)"
+   },
+   {
+    "a": "انْتِفاضة (ج) انتفاضات",
+    "t": "intifāḍah (pl. intifāḍāt)",
+    "e": "Uprising / Intifada",
+    "u": "انتفاضة الخبز (The bread uprising)"
+   },
+   {
+    "a": "حَشْد (حَشَدَ / يَحْشِدُ)",
+    "t": "ḥashd (ḥashada / yaḥshidu)",
+    "e": "Mobilization (to mobilize)",
+    "u": "حشد الجماهير (Mobilizing the masses)"
+   },
+   {
+    "a": "مَرْحَلة انْتِقالِيّة",
+    "t": "marḥalah intiqāliyyah",
+    "e": "Transitional phase",
+    "u": "إدارة المرحلة الانتقالية (Managing the transition)"
+   },
+   {
+    "a": "سُلْطَوِيّة",
+    "t": "sulṭawiyyah",
+    "e": "Authoritarian nature",
+    "u": "نظام أكثر سلطوية (A more authoritarian regime)"
+   },
+   {
+    "a": "تَهْمِيش",
+    "t": "tahmīsh",
+    "e": "Marginalization",
+    "u": "قضايا الفقر والتهميش (Issues of poverty and marginalization)"
+   },
+   {
+    "a": "الهَوان",
+    "t": "al-hawān",
+    "e": "Humiliation / Submissiveness",
+    "u": "ارتضى الهوان (He accepted humiliation)"
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "title": "Freedom of Expression & Censorship (حُرّية التعبير والرقابة)",
+  "hdr": [
+   "Arabic Term / Phrase",
+   "Transliteration",
+   "English Meaning",
+   "B2 Usage Context / Collocation"
+  ],
+  "rows": [
+   {
+    "a": "حُرِّية التَّعْبِير",
+    "t": "ḥurriyyat at-ta‘bīr",
+    "e": "Freedom of expression",
+    "u": "الحصار على حرية التعبير (Restrictions on freedom of expression)"
+   },
+   {
+    "a": "الرَّقابة على المَصْنُوفات",
+    "t": "ar-raqābah ‘alā al-maṣnūfāt",
+    "e": "Censorship of artistic products",
+    "u": "جهاز الرقابة المسبقة (Prior censorship board)"
+   },
+   {
+    "a": "مَقَصّ الرَّقِيب",
+    "t": "maqaṣṣ ar-raqīb",
+    "e": "The censor's scissors",
+    "u": "طال مقص الرقيب الفيلم (The censor cut parts of the film)"
+   },
+   {
+    "a": "مُصادَرة (صادَرَ / يُصادِرُ)",
+    "t": "muṣādarah (ṣādara / yuṣādiru)",
+    "e": "Confiscation / Banning",
+    "u": "مصادرة الصحف والأعمال (Confiscation of newspapers and works)"
+   },
+   {
+    "a": "ازْدِراء الأَدْيان",
+    "t": "izdirā’ al-adyān",
+    "e": "Blasphemy / Contempt of religion",
+    "u": "تهمة ازدراء الأديان (Accusation of contempt of religion)"
+   },
+   {
+    "a": "خَدْش الحَياء",
+    "t": "khadsh al-ḥayā’",
+    "e": "Indecency (lit. scratching modesty)",
+    "u": "اتهامات جاهزة مثل خدش الحياء (Standard accusations like indecency)"
+   },
+   {
+    "a": "مَحْظُور / مَمْنُوع",
+    "t": "maḥẓūr / mamnū‘",
+    "e": "Prohibited / Forbidden",
+    "u": "المحظورات السياسية (Political taboos)"
+   },
+   {
+    "a": "تَجاوُز الرَّقِيب",
+    "t": "tajāwuz ar-raqīb",
+    "e": "Bypassing/Outsmarting the censor",
+    "u": "نجح في تجاوز الرقيب (He succeeded in bypassing the censor)"
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "title": "Arts, Cinema & Media Terms (الفنون، السينما والإعلام)",
+  "hdr": [
+   "Arabic Term / Phrase",
+   "Transliteration",
+   "English Meaning",
+   "B2 Usage Context / Collocation"
+  ],
+  "rows": [
+   {
+    "a": "السِّينِما المُسْتَقِلّة",
+    "t": "as-sīnimā al-mustaqillah",
+    "e": "Independent Cinema",
+    "u": "تيار السينما المستقلة (Independent cinema movement)"
+   },
+   {
+    "a": "قَصَص مُصَوَّرة (كوميكس)",
+    "t": "qiṣaṣ muṣawwarah",
+    "e": "Comics / Graphic novels",
+    "u": "تجربة الكوميكس العربية (Arab comics experience)"
+   },
+   {
+    "a": "فَنّ الجِدارِيّات (جرافيتي)",
+    "t": "fann al-jidāriyyāt",
+    "e": "Mural art / Graffiti",
+    "u": "جداريات شارع محمد محمود (Mohamed Mahmoud street murals)"
+   },
+   {
+    "a": "شُبّاك التَّذاكِر",
+    "t": "shubbāk at-tadākir",
+    "e": "Box office",
+    "u": "منافسة في شباك التذاكر (Competing at the box office)"
+   },
+   {
+    "a": "أَفْلام المُقاوَلات",
+    "t": "aflām al-muqāwalāt",
+    "e": "B-movies / Commercial quickies",
+    "u": "ظهور أفلام المقاولات (The rise of low-budget commercial films)"
+   },
+   {
+    "a": "شاعِر (ج) شُعَراء",
+    "t": "shā‘ir (pl. shu‘arā’)",
+    "e": "Poet",
+    "u": "الشاعر أحمد فؤاد نجم (The poet Ahmed Fouad Negm)"
+   },
+   {
+    "a": "تَأْمِيم",
+    "t": "ta’mīm",
+    "e": "Nationalization",
+    "u": "تأميم الصحف والمؤسسات (Nationalization of press and institutions)"
+   },
+   {
+    "a": "فَنّ المَهْرَجانات",
+    "t": "fann al-maharajānāt",
+    "e": "Mahraganat (electro-shaabi music)",
+    "u": "أغاني المهرجانات الشعبية (Popular Mahraganat songs)"
+   },
+   {
+    "a": "رِواية مُصَوَّرة",
+    "t": "riwāyah muṣawwarah",
+    "e": "Graphic novel",
+    "u": "إصدار رواية مصورة (Publishing a graphic novel)"
+   },
+   {
+    "a": "تَمْثِيل رَمْزِيّ",
+    "t": "tamthīl ramziyy",
+    "e": "Symbolic representation",
+    "u": "استخدام الرموز والإسقاطات (Using symbols and allegories)"
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "title": "Satire, Humor & Caricature (السخرية، الفكاهة والكاريكاتير)",
+  "hdr": [
+   "Arabic Term / Phrase",
+   "Transliteration",
+   "English Meaning",
+   "B2 Usage Context / Collocation"
+  ],
+  "rows": [
+   {
+    "a": "سُخْرِية لاذِعة",
+    "t": "sukhriyah lādhi‘ah",
+    "e": "Biting satire / Caustic sarcasm",
+    "u": "أسلوب ساخر ولاذع (A biting, satirical style)"
+   },
+   {
+    "a": "كارِيكاتِير سِياسِيّ",
+    "t": "kārīkātīr siyāsiyy",
+    "e": "Political caricature/cartoon",
+    "u": "رسام الكاريكاتير (Political cartoonist)"
+   },
+   {
+    "a": "إِسْقاط سِياسِيّ",
+    "t": "isqāṭ siyāsiyy",
+    "e": "Political allegory / Subtext",
+    "u": "تعبير يحتوي على إسقاط سياسي (An expression with political subtext)"
+   },
+   {
+    "a": "نُكْتة (ج) نُكَت",
+    "t": "nuktab (pl. nukat)",
+    "e": "Joke",
+    "u": "شعب ابن نكتة (A humor-loving people)"
+   },
+   {
+    "a": "كومِيدِيا سَوْداء",
+    "t": "kūmīdiyā sawdā’",
+    "e": "Black comedy / Dark humor",
+    "u": "بأسلوب الكوميديا السوداء (In a dark comedy style)"
+   },
+   {
+    "a": "تَهَكُّم (تَهَكَّمَ / يَتَهَكَّمُ)",
+    "t": "tahakkum (tahakkama)",
+    "e": "Mockery / Derision",
+    "u": "التهكم على السلطة (Mocking authority)"
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "title": "High-Frequency Idioms, Metaphors & Collocations (تعبير ومصطلحات أدبية)",
+  "hdr": [
+   "Idiom / Phrase (Arabic)",
+   "Transliteration",
+   "Literal Meaning",
+   "Figurative / Pragmatic Meaning (English)"
+  ],
+  "rows": [
+   {
+    "a": "قَصَفَ جَبْهة",
+    "t": "qaṣafa jabhat...",
+    "e": "To bomb someone's forehead",
+    "u": "To deliver a savage comeback / To roast someone"
+   },
+   {
+    "a": "انتَشَرَ كالنَّارِ في الهَشِيم",
+    "t": "intashara kan-nār fī al-hashīm",
+    "e": "Spread like fire in dry grass",
+    "u": "To go viral / To spread like wildfire"
+   },
+   {
+    "a": "فَشَّ غِلَّ الشَّعْب",
+    "t": "fashsha ghilla ash-sha‘b",
+    "e": "To release the nation's grudge",
+    "u": "To give voice to the people's pent-up rage"
+   },
+   {
+    "a": "على الأَعْناق (حَمَلَهُ على الأَعْناق)",
+    "t": "ḥamalahu ‘alā al-a‘nāq",
+    "e": "Carried him on the necks",
+    "u": "To celebrate someone triumphantly as a hero"
+   },
+   {
+    "a": "ضَرْبة شَمْس",
+    "t": "ḍarbat shams",
+    "e": "Sunstroke",
+    "u": "A sudden awakening / Shock to the system"
+   },
+   {
+    "a": "طَيْ السِّلْوان / طَيّ النِّسْيان",
+    "t": "ṭayy an-nisyān",
+    "e": "Folded in obliviousness",
+    "u": "Faded into oblivion / Forgotten by history"
+   },
+   {
+    "a": "كَسَرَ / خَرَقَ الخُطُوط الحَمْراء",
+    "t": "kasara al-khuṭūṭ al-ḥamrā’",
+    "e": "Broke the red lines",
+    "u": "To cross strict boundaries or taboos"
+   },
+   {
+    "a": "يُغَرِّدُ خارِجَ السِّرْب",
+    "t": "yugharridu khārija as-sirb",
+    "e": "Sings outside the flock",
+    "u": "To go against the grain / To be a maverick"
+   },
+   {
+    "a": "دَوامُ الحَالِ مِنَ المَُحال",
+    "t": "dawāmu al-ḥāli mina al-muḥāl",
+    "e": "Continuity of a state is impossible",
+    "u": "Nothing lasts forever / Change is inevitable"
+   },
+   {
+    "a": "فَتَحَ شَقّاً في جِدارِ الصَّمْت",
+    "t": "fataḥa shaqqan fī jidār aṣ-ṣamt",
+    "e": "Opened a crack in the wall of silence",
+    "u": "To break a long-standing silence / taboo"
+   }
+  ]
+ }
+]

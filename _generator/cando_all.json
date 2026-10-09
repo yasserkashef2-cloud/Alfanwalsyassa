@@ -1,0 +1,421 @@
+{
+ "A-INT-INFO": {
+  "mode": "Interpretive",
+  "bench": "I can understand the main message and supporting details on a wide variety of familiar and general interest topics across various time frames from complex, organized texts that are spoken, written, or signed.",
+  "q": "What can I understand, interpret or analyze in authentic informational texts that I hear, read or view?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can identify the underlying message and some supporting details across major time frames in descriptive informational texts."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can understand the underlying message and most supporting details across major time frames in descriptive informational texts."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can follow the flow of ideas and infer meaning from complex language on unfamiliar, abstract topics within informational texts."
+   }
+  ]
+ },
+ "A-INT-FICT": {
+  "mode": "Interpretive",
+  "bench": "I can understand the main message and supporting details on a wide variety of familiar and general interest topics across various time frames from complex, organized texts that are spoken, written, or signed.",
+  "q": "What can I understand, interpret or analyze in authentic fictional texts that I hear, read or view?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can follow the main story and some supporting detail across major time frames in fictional texts."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can follow the main story and most supporting details across major time frames in fictional texts."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can follow the flow of ideas and some nuances from different viewpoints in most fictional texts."
+   }
+  ]
+ },
+ "A-INT-CONV": {
+  "mode": "Interpretive",
+  "bench": "I can understand the main message and supporting details on a wide variety of familiar and general interest topics across various time frames from complex, organized texts that are spoken, written, or signed.",
+  "q": "What can I understand, interpret or analyze in conversations and discussions that I hear, read or view, in which I am not a participant?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can understand the main message and some supporting details across major time frames in conversations and discussions."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can understand the main message and most supporting details across major time frames in conversations and discussions."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can follow the flow of ideas and some nuances from different viewpoints in conversations and discussions."
+   }
+  ]
+ },
+ "A-IPR-EXCH": {
+  "mode": "Interpersonal",
+  "bench": "I can maintain spontaneous spoken, written, or signed conversations and discussions across various time frames on familiar, as well as unfamiliar, concrete topics, using series of connected sentences and probing questions.",
+  "q": "How can I exchange information and ideas in conversations?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can exchange information and ideas in discussions on a variety of familiar and concrete academic and social topics, using a few simple paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can maintain discussions on a wide variety of familiar and unfamiliar concrete topics of personal and general interest, and sometimes academic, social or professional topics, by using probing questions and providing detailed responses across major time frames."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can discuss and sometimes debate a variety of complex concrete and some abstract academic, social and professional topics and often deal with related issues hypothetically, using precise questions and explanations."
+   }
+  ]
+ },
+ "A-IPR-NEEDS": {
+  "mode": "Interpersonal",
+  "bench": "I can maintain spontaneous spoken, written, or signed conversations and discussions across various time frames on familiar, as well as unfamiliar, concrete topics, using series of connected sentences and probing questions.",
+  "q": "How can I meet my needs or address situations in conversations?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can interact and negotiate to resolve an unexpected complication that arises in a familiar situation, using a few simple paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can interact and negotiate to resolve an unexpected complication that arises in a familiar situation, providing detailed explanations and offering a variety of resolutions across major time frames."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can interact and negotiate to resolve an unexpected complication in a situation that is generally unfamiliar."
+   }
+  ]
+ },
+ "A-IPR-OPIN": {
+  "mode": "Interpersonal",
+  "bench": "I can maintain spontaneous spoken, written, or signed conversations and discussions across various time frames on familiar, as well as unfamiliar, concrete topics, using series of connected sentences and probing questions.",
+  "q": "How can I express, react to, and support preferences and opinions in conversations?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can maintain conversations by providing explanations and comparisons of preferences, opinions, and advice on familiar and concrete academic and social topics using a few simple paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can maintain extended conversations by supporting, reacting to, and comparing preferences and opinions and expressing advice and emotions in detail across major time frames, and by asking probing questions."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can discuss, support, and sometimes debate opinions and advice on a variety of complex concrete topics, often addressing hypothetical or abstract issues, and asking precise questions."
+   }
+  ]
+ },
+ "A-PRE-NARR": {
+  "mode": "Presentational",
+  "bench": "I can deliver detailed and organized presentations on familiar as well as unfamiliar concrete topics, in paragraphs and using various time frames through spoken, written, or signed language.",
+  "q": "How can I present information to narrate about my life, experiences and events?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can tell stories about school and community events and personal experiences, using paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can tell stories based on concrete experiences in academic, social, and professional topics of interest, using organized paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can give complex detailed narrations beyond the concrete, often addressing abstract experiences or hypothetical issues."
+   }
+  ]
+ },
+ "A-PRE-OPIN": {
+  "mode": "Presentational",
+  "bench": "I can deliver detailed and organized presentations on familiar as well as unfamiliar concrete topics, in paragraphs and using various time frames through spoken, written, or signed language.",
+  "q": "How can I present information to give a preference, opinion or persuasive argument?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can state a viewpoint with supporting evidence on some concrete academic, social and professional topics of interest using paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can present an argument with supporting evidence, based on a variety of concrete academic, social and professional topics of interest, using organized paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can clearly and accurately present an argument with supporting evidence on complex concrete issues, and often deal with related issues hypothetically."
+   }
+  ]
+ },
+ "A-PRE-INFO": {
+  "mode": "Presentational",
+  "bench": "I can deliver detailed and organized presentations on familiar as well as unfamiliar concrete topics, in paragraphs and using various time frames through spoken, written, or signed language.",
+  "q": "How can I present information to inform, describe, or explain?",
+  "levels": [
+   {
+    "level": "Advanced Low",
+    "text": "I can deliver presentations on some concrete academic, social and professional topics of interest, using paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced Mid",
+    "text": "I can deliver detailed presentations and elaborate on a variety of concrete academic, social and professional topics of interest, using organized paragraphs across major time frames."
+   },
+   {
+    "level": "Advanced High",
+    "text": "I can deliver cohesive presentations on a variety of complex concrete topics related to community interests and some specialized fields, and often deal with related issues hypothetically."
+   }
+  ]
+ },
+ "I-INT-INFO": {
+  "mode": "Interpretive",
+  "bench": "I can understand the main idea and some pieces of information on familiar topics from sentences and series of connected sentences within texts that are spoken, written, or signed.",
+  "q": "What can I understand, interpret or analyze in authentic informational texts that I hear, read or view?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can identify the topic and related information from simple sentences in short informational texts."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can understand the main idea and key information in short straightforward informational texts."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can usually follow the main message in various time frames in straightforward, and sometimes descriptive, paragraph- length informational texts."
+   }
+  ]
+ },
+ "I-INT-FICT": {
+  "mode": "Interpretive",
+  "bench": "I can understand the main idea and some pieces of information on familiar topics from sentences and series of connected sentences within texts that are spoken, written, or signed.",
+  "q": "What can I understand, interpret or analyze in authentic fictional texts that I hear, read or view?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can identify the topic and related information from simple sentences in short fictional texts."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can understand the main idea and key information in short straightforward fictional texts."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can usually follow the main story and actions expressed in various time frames in paragraph-length fictional texts."
+   }
+  ]
+ },
+ "I-INT-CONV": {
+  "mode": "Interpretive",
+  "bench": "I can understand the main idea and some pieces of information on familiar topics from sentences and series of connected sentences within texts that are spoken, written, or signed.",
+  "q": "What can I understand, interpret or analyze in conversations and discussions that I hear, read or view, in which I am not a participant?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can identify the main idea in short conversations."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can identify the main idea and key information in short straightforward conversations."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can usually understand the main idea and flow of events expressed in various time frames in conversations and discussions."
+   }
+  ]
+ },
+ "I-IPR-EXCH": {
+  "mode": "Interpersonal",
+  "bench": "I can participate in spontaneous spoken, written, or signed conversations on familiar topics, creating sentences and series of sentences to ask and answer a variety of questions.",
+  "q": "How can I exchange information and ideas in conversations?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can request and provide information in conversations on familiar topics by creating simple sentences and asking appropriate follow-up questions."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can exchange information in conversations on familiar topics and some researched topics, creating sentences and series of sentences and asking a variety of follow-up questions."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can exchange information in conversations and some discussions on a variety of familiar and some concrete topics that I have researched, using connected sentences that may combine to form paragraphs and asking a variety of questions, often across various time frames."
+   }
+  ]
+ },
+ "I-IPR-NEEDS": {
+  "mode": "Interpersonal",
+  "bench": "I can participate in spontaneous spoken, written, or signed conversations on familiar topics, creating sentences and series of sentences to ask and answer a variety of questions.",
+  "q": "How can I meet my needs or address situations in conversations?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can interact with others to meet my basic needs in familiar situations by creating simple sentences and asking appropriate follow-up questions."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can interact with others to meet my needs in a variety of familiar situations, creating sentences and series of sentences and asking a variety of follow- up questions."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can interact with others to meet my needs in a variety of situations, sometimes involving a complication, using connected sentences that may combine to form paragraphs and asking a variety of questions, often across various time frames."
+   }
+  ]
+ },
+ "I-IPR-OPIN": {
+  "mode": "Interpersonal",
+  "bench": "I can participate in spontaneous spoken, written, or signed conversations on familiar topics, creating sentences and series of sentences to ask and answer a variety of questions.",
+  "q": "How can I express, react to, and support preferences and opinions in conversations?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can express, ask about, and react with some details to preferences, feelings, or opinions on familiar topics, by creating simple sentences and asking appropriate follow-up questions."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can exchange preferences, feelings, or opinions and provide basic advice on a variety of familiar topics, creating sentences and series of sentences and asking a variety of follow-up questions."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can explain preferences, opinions, and emotions and provide advice on a variety of familiar and some concrete topics that I have researched, using connected sentences that may combine to form paragraphs and asking a variety of questions, often across various time frames."
+   }
+  ]
+ },
+ "I-PRE-NARR": {
+  "mode": "Presentational",
+  "bench": "I can communicate information, make presentations, and express my thoughts about familiar topics, using sentences and series of connected sentences through spoken, written, or signed language.",
+  "q": "How can I present information to narrate about my life, experiences and events?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can present personal information about my life, activities and events, using simple sentences."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can tell a story about my life, activities, events and other social experiences, using sentences and series of connected sentences."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can tell stories about school and community events and personal experiences, using a few short paragraphs, often across various time frames."
+   }
+  ]
+ },
+ "I-PRE-OPIN": {
+  "mode": "Presentational",
+  "bench": "I can communicate information, make presentations, and express my thoughts about familiar topics, using sentences and series of connected sentences through spoken, written, or signed language.",
+  "q": "How can I present information to give a preference, opinion or persuasive argument?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can express my preferences on familiar and everyday topics of interest and explain why I feel that way, using simple sentences."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can state my viewpoint about familiar topics and give some reasons to support it, using sentences and series of connected sentences."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can state my viewpoint on familiar or researched topics and provide reasons to support it, using a few short paragraphs, often across various time frames."
+   }
+  ]
+ },
+ "I-PRE-INFO": {
+  "mode": "Presentational",
+  "bench": "I can communicate information, make presentations, and express my thoughts about familiar topics, using sentences and series of connected sentences through spoken, written, or signed language.",
+  "q": "How can I present information to inform, describe, or explain?",
+  "levels": [
+   {
+    "level": "Intermediate Low",
+    "text": "I can present on familiar and everyday topics, using simple sentences."
+   },
+   {
+    "level": "Intermediate Mid",
+    "text": "I can give straightforward presentations on a variety of familiar topics and some concrete topics I have researched, using sentences and series of connected sentences."
+   },
+   {
+    "level": "Intermediate High",
+    "text": "I can give detailed presentations on a variety of familiar topics and some concrete topics I have researched, using a few short paragraphs, often across various time frames."
+   }
+  ]
+ },
+ "A-ICC-PROD": {
+  "mode": "Intercultural",
+  "q": "INVESTIGATE · Products",
+  "bench": "In my own and other cultures I can explain some diversity among products and practices and how it relates to perspectives.",
+  "levels": [
+   {
+    "level": "Advanced",
+    "text": "In my own and other cultures I can explain how a variety of products of public and personal interest are related to perspectives."
+   }
+  ]
+ },
+ "A-ICC-PRAC": {
+  "mode": "Intercultural",
+  "q": "INVESTIGATE · Practices",
+  "bench": "In my own and other cultures I can explain some diversity among products and practices and how it relates to perspectives.",
+  "levels": [
+   {
+    "level": "Advanced",
+    "text": "In my own and other cultures I can explain how a variety of practices within familiar and social situations are related to perspectives."
+   }
+  ]
+ },
+ "A-ICC-LANG": {
+  "mode": "Intercultural",
+  "q": "INTERACT · Language",
+  "bench": "I can interact at a competent level in familiar and some unfamiliar contexts.",
+  "levels": [
+   {
+    "level": "Advanced",
+    "text": "I can converse comfortably with others from the target culture in familiar and some unfamiliar situations and show some understanding of cultural differences."
+   }
+  ]
+ },
+ "S-ICC-PROD": {
+  "mode": "Intercultural",
+  "q": "INVESTIGATE · Products (Superior)",
+  "bench": "In my own and other cultures I can suspend judgment while critically examining products, practices, and perspectives.",
+  "levels": [
+   {
+    "level": "Superior",
+    "text": "In my own and other cultures I can analyze how products of personal and public interest are related to perspectives."
+   }
+  ]
+ },
+ "S-ICC-PRAC": {
+  "mode": "Intercultural",
+  "q": "INVESTIGATE · Practices (Superior)",
+  "bench": "In my own and other cultures I can suspend judgment while critically examining products, practices, and perspectives.",
+  "levels": [
+   {
+    "level": "Superior",
+    "text": "In my own and other cultures I can analyze how practices within informal and formal situations are related to perspectives."
+   }
+  ]
+ },
+ "I-ICC-PROD": {
+  "mode": "Intercultural",
+  "q": "INVESTIGATE · Products (Intermediate)",
+  "bench": "In my own and other cultures I can make comparisons between products and practices to help me understand perspectives.",
+  "levels": [
+   {
+    "level": "Intermediate",
+    "text": "In my own and other cultures I can compare products related to everyday life and personal interests or studies."
+   }
+  ]
+ },
+ "I-ICC-PRAC": {
+  "mode": "Intercultural",
+  "q": "INVESTIGATE · Practices (Intermediate)",
+  "bench": "In my own and other cultures I can make comparisons between products and practices to help me understand perspectives.",
+  "levels": [
+   {
+    "level": "Intermediate",
+    "text": "In my own and other cultures I can compare practices related to everyday life and personal interests or studies."
+   }
+  ]
+ }
+}
